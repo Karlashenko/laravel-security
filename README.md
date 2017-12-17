@@ -1,6 +1,6 @@
 # laravel-abac
 
-Вольная реализация системы контроля доступа на основе атрибутов (ABAC).
+Произвольная реализация системы контроля доступа на основе атрибутов (ABAC).
 
 https://en.wikipedia.org/wiki/Attribute-based_access_control
 
